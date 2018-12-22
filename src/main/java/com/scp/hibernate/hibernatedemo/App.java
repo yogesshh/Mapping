@@ -2,7 +2,7 @@ package com.scp.hibernate.hibernatedemo;
 
 /**
  * Hello world!
- *
+ * You r making changes for git
  */
 public class App 
 {
